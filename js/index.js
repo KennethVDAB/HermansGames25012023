@@ -23,7 +23,6 @@ function voegToe(naamConsole) {
     ul.appendChild(nieuwSpel);
 
     // Zorg ervoor dat dit nieuwe element ook verwijderd kan worden:
-    verwijderItem();
 }
 
 function verwijderItem() {
